@@ -1,85 +1,84 @@
 # Hi there, I'm Tarun Emmanuel Majhi
 
- **About Me**
+**About Me**
 
-🤖 AI/ML Engineer | 🎓 MS in Computer Science | ☁️ MLOps • Cloud • GenAI  
-I design and ship **production-ready AI systems** — from **LLMs, RAG, and embeddings** to **end-to-end MLOps pipelines** (training → evaluation → deployment).  
-Strong interest in **scalable AI infrastructure**, **financial ML systems**, and **data-driven decision making**.
+🤖 Machine Learning Engineer | MS in Computer Science | MLOps, Cloud, GenAI
+
+I design and ship production ready AI systems, from LLMs, RAG, and agentic workflows to end to end MLOps/LLMOps pipelines (training, evaluation, deployment).
+Strong interest in scalable AI infrastructure, financial ML systems, and intelligent document processing.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**💡 Languages**  
-Python · Java · JavaScript · TypeScript · SQL · Bash  
+**Languages**
+Python, Java, SQL
 
-**🎨 Frontend**  
-React · HTML5 · CSS3 · Tailwind · Responsive UI  
+**Backend & Databases**
+FastAPI, REST APIs, Microservices, PostgreSQL, Redis, Vector Databases
 
-**⚙️ Backend & Databases**  
-Spring Boot · Node.js · REST APIs · PostgreSQL · MySQL · MongoDB · FAISS  
+**Cloud & MLOps**
+AWS, Amazon SageMaker, Azure AI Services, Docker, Kubernetes, Apache Airflow, MLflow, CI/CD, Model Deployment, Model Monitoring, LLMOps
 
-**☁️ Cloud & MLOps**  
-AWS (SageMaker, EC2, S3) · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD · Azure ML  
+**Machine Learning**
+PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face Transformers, BERT, Prophet, LSTM, GRU, Temporal Fusion Transformer, SHAP
 
-**🤖 AI / ML & GenAI**  
-Machine Learning · PyTorch · scikit-learn · Transformers · Hugging Face  
-LLMs · RAG · LangChain · Prompt Engineering · NLP · Time-Series ML  
+**Generative AI**
+LangChain, LangGraph, OpenAI GPT-4o, Azure OpenAI Service, Agentic AI, Retrieval Augmented Generation (RAG), Prompt Engineering, QLoRA, PEFT, Embeddings, Hybrid Search, RAGAS
+
+**Document AI & Computer Vision**
+LayoutLM, Tesseract OCR, OpenCV, ONNX Runtime, Intelligent Document Processing
+
+**Tools**
+Git, GitHub, Jira, Agile Scrum, Apache Kafka
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **Credit Card Fraud Detection**  
-ML-powered fraud detection system using Python and scikit-learn.  
-Handled class imbalance, feature engineering, and model evaluation using precision-recall metrics.  
-🔗 https://github.com/tarunemmanuel/credit-card-fraud-detection  
+🔹 **RAG Assistant for SAP Incident Troubleshooting**
+Built a RAG based assistant that ingests historical SAP tickets, dumps, job logs, and internal KB/SAP Notes into a vector database for similarity search, enabling LLMs to generate targeted troubleshooting guidance for new incidents.
 
-🔹 **Stock Market Trend Prediction**  
-Time-series ML project to analyze and predict stock price trends.  
-Used preprocessing, feature engineering, and model evaluation for market insights.  
-🔗 https://github.com/tarunemmanuel/stock-market-trend-prediction  
+🔹 **Stock Market Trend Prediction Analysis with Deep Learning and ML**
+Engineered a high frequency trading forecasting engine using LSTM and GRU networks with TensorFlow (25% increase in prediction accuracy), with a full stack FastAPI and React.js dashboard for real time inference visualization.
+🔗 https://github.com/tarunemmanuel/stock-market-trend-prediction
 
-🔹 **Archivum – Decentralized File Storage**  
-Secure file storage platform with modern backend architecture.  
-Focused on system reliability, scalable storage, and clean design principles.  
-🔗 https://github.com/tarunemmanuel/archivum  
+🔹 **Credit Card Fraud Detection using Random Forest**
+Architected a real time risk scoring system processing 984K+ transactions using Random Forest and Scikit-learn, with an automated feature engineering pipeline (SMOTE for imbalanced data) and Docker for scalable deployment.
+🔗 https://github.com/tarunemmanuel/credit-card-fraud-detection
 
-👉 **Explore more projects:** https://github.com/tarunemmanuel?tab=repositories  
+Explore more projects: https://github.com/tarunemmanuel?tab=repositories
 
 ---
 
-## 💼 Experience
+## Experience
 
-**AI/ML Engineer – Goldman Sachs Group, USA** (Sep 2025 – Present)  
-⚡ Led AI-driven fraud detection using LLMs and RAG with Hugging Face and FAISS, improving accuracy by **28%** and reducing false positives by **15%**  
-⚡ Built end-to-end ML pipelines with PyTorch and AWS SageMaker for real-time credit risk scoring (**AUC 0.92**)  
-⚡ Developed quantitative trading strategies using time-series ML, recommender systems, and agentic workflows (LangChain)  
-⚡ Fine-tuned Transformer models (BERT) for NLP-based sentiment analysis and risk prediction  
+**Machine Learning Engineer, State Street** (Sep 2025 to Present)
+- Architected and deployed RAG applications using LangChain, LangGraph, Azure OpenAI, and vector databases to improve enterprise knowledge discovery for financial research teams
+- Developed agentic AI workflows with tool calling, memory management, and multi step reasoning to automate research, document analysis, and internal knowledge retrieval
+- Built scalable inference services using FastAPI, Docker, and Kubernetes, enabling LLM powered applications with sub two second response times
+- Designed hybrid retrieval pipelines (embeddings, BM25, reranking, semantic search) to improve response relevance across enterprise AI assistants
+- Implemented end to end MLOps/LLMOps workflows using MLflow, Apache Airflow, and CI/CD, reducing model deployment time by 60%
 
-**ML Engineer – Happiest Minds Technologies, India** (Apr 2021 – Dec 2023)  
-⚡ Built predictive analytics platforms using Transformers and PyTorch, achieving **22% higher forecasting accuracy**  
-⚡ Developed clustering models (K-Means) for client segmentation and personalization  
-⚡ Automated ML workflows with Azure ML Studio and PySpark, cutting deployment time by **30%**  
-⚡ Integrated CI/CD pipelines using Git and Jenkins for compliant enterprise ML systems  
-
----
-
-## 🎓 Education
-
-**Clark University**  
-🎓 Master of Science in Computer Science  
-📍 Worcester, MA, USA  
-⭐ GPA: 3.94  
-
-**Jawaharlal Nehru Technological University (Anantapur)**  
-🎓 Bachelor of Technology in Computer Science and Engineering  
-📍 Andhra Pradesh, India  
-⭐ GPA: 3.2  
+**Machine Learning Engineer, Happiest Minds Technologies** (Apr 2021 to Dec 2023)
+- Developed customer churn prediction models on 1M+ customer records using Python, Scikit-learn, and XGBoost, improving retention campaign effectiveness by 18%
+- Built intelligent document processing solutions using LayoutLM, OCR, and transformer models, reducing manual document processing by 70% and boosting extraction accuracy from 67% to 89%
+- Automated model training, deployment, and monitoring using Apache Airflow, MLflow, Docker, and Kubernetes
+- Developed demand forecasting models using Prophet, LSTM, and Temporal Fusion Transformers for inventory planning
+- Integrated ML models into production applications, contributing to solutions generating approximately $2M in annual operational savings
 
 ---
 
-## 📊 GitHub Stats
+## Education
+
+**Clark University**
+Master of Science in Computer Science
+Worcester, MA, USA
+GPA: 3.9/4.0 (Jan 2024 to Dec 2025)
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunemmanuel&theme=default" height="160"/>
@@ -88,12 +87,13 @@ Focused on system reliability, scalable storage, and clean design principles.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/tarunemmanuel  
-🌐 **Portfolio:** https://tarunemmanuel.github.io  
-📧 **Email:** iamtarunemmanuel@gmail.com  
+LinkedIn: https://www.linkedin.com/in/tarunemmanuel
+Portfolio: https://tarunemmanuel.github.io
+Email: tarun.emman@gmail.com
+Phone: (774) 224-0556
 
 <!--
-tarunemmanuel/tarunemmanuel is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+tarunemmanuel/tarunemmanuel is a special repository because its README.md appears on your GitHub profile.
 -->
